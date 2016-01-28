@@ -12,4 +12,6 @@ git commit -m "My Commit"
 git push
 ```
 
+# Foo was in qux
+
 
