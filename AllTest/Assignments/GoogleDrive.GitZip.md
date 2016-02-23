@@ -1,0 +1,3 @@
+foo
+
+![My Picture]
