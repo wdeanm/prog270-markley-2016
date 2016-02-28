@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Made with Remarkable!
+  </title>
+  <link href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.1/styles/github.min.css" rel="stylesheet"/>
+  <style type="text/css">
+   body{font:16px Helvetica,Arial,sans-serif;line-height:1.4;color:#333;word-wrap:break-word;background-color:#fff;padding:10px 15px}strong{font-weight:700}h1{font-size:2em;margin:.67em 0;text-align:center}h2{font-size:1.75em}h3{font-size:1.5em}h4{font-size:1.25em}h1,h2,h3,h4,h5,h6{font-weight:700;position:relative;margin-top:15px;margin-bottom:15px;line-height:1.1}h1,h2{border-bottom:1px solid #eee}hr{height:0;margin:15px 0;overflow:hidden;background:0 0;border:0;border-bottom:1px solid #ddd}a{color:#4183C4}a.absent{color:#c00}ol,ul{padding-left:15px;margin-left:5px}ol{list-style-type:lower-roman}table{padding:0}table tr{border-top:1px solid #ccc;background-color:#fff;margin:0;padding:0}table tr:nth-child(2n){background-color:#aaa}table tr th{font-weight:700;border:1px solid #ccc;text-align:left;margin:0;padding:6px 13px}table tr td{border:1px solid #ccc;text-align:left;margin:0;padding:6px 13px}table tr td :first-child,table tr th :first-child{margin-top:0}table tr td:last-child,table tr th :last-child{margin-bottom:0}img{max-width:100%}code{padding:0 5px;background-color:#d3d3d3}blockquote{padding: 0 15px;border-left:4px solid #ccc}
+  </style>
+ </head>
+ <body>
+  <h1 id="defence-of-fort-mhenry">
+   Defence of Fort M’Henry
+  </h1>
+  <p>
+   On the shore dimly seen through the mists of the deep,
+   <br/>
+   Where the foe’s haughty host in dread silence reposes,
+   <br/>
+   What is that which the breeze, o’er the towering steep,
+   <br/>
+   As it fitfully blows, half conceals, half discloses?
+   <br/>
+   Now it catches the gleam of the morning’s first beam,
+   <br/>
+   In full glory reflected now shines in the stream:
+   <br/>
+   ‘Tis the star-spangled banner, O! long may it wave
+   <br/>
+   O’er the land of the free and the home of the brave.
+  </p>
+  <p>
+   And where is that band who so vauntingly swore
+   <br/>
+   That the havoc of war and the battle’s confusion,
+   <br/>
+   A home and a country, should leave us no more?
+   <br/>
+   Their blood has washed out their foul footsteps’ pollution.
+   <br/>
+   No refuge could save the hireling and slave
+   <br/>
+   From the terror of flight, or the gloom of the grave:
+   <br/>
+   And the star-spangled banner in triumph doth wave,
+   <br/>
+   O’er the land of the free and the home of the brave.
+  </p>
+  <p>
+   O thus be it ever, when freemen shall stand
+   <br/>
+   Between their loved homes and the war’s desolation.
+   <br/>
+   Blest with vict’ry and peace, may the Heav’n rescued land
+   <br/>
+   Praise the Power that hath made and preserved us a nation!
+   <br/>
+   Then conquer we must, when our cause it is just,
+   <br/>
+   And this be our motto: ‘In God is our trust.’
+   <br/>
+   And the star-spangled banner in triumph shall wave
+   <br/>
+   O’er the land of the free and the home of the brave!
+  </p>
+  <p>
+   <strong>
+    <em>
+     Francis Scott Key
+    </em>
+   </strong>
+  </p>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.1/highlight.min.js">
+  </script>
+  <script>
+   hljs.initHighlightingOnLoad();
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   MathJax.Hub.Config({"showProcessingMessages" : false,"messageStyle" : "none","tex2jax": { inlineMath: [ [ "$", "$" ] ] }});
+  </script>
+ </body>
+</html>
