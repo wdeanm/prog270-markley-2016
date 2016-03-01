@@ -1,0 +1,11 @@
+sudo apt-get update
+sudo apt-get upgrade
+jo
+git pull
+cd
+cd .ssh
+sshadd
+LoadEc2key
+cd
+cd Git/prog270-markley-2016/
+git pull
