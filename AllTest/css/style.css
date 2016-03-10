@@ -1,3 +1,18 @@
 img.twenty-five-percent {
    width: 25%;
 }
+img.fifty-percent {
+   width: 50%;
+}
+img.seventy-five-percent {
+   width: 75%;
+}
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+div.padded{
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
