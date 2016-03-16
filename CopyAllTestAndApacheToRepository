@@ -2,7 +2,8 @@
 
 # Declare destination dir for AllTest in
 # one place so it is easy to modify
-REPO=$GIT_HOME/prog270-calvert-2016
+REPO=$GIT_HOME/prog270-markley-2016
+
 
 # Declare destination for CSS, JavaScript and Images
 CSS_JS_IMAGE=$REPO/ApacheHelpers

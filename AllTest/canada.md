@@ -1,4 +1,4 @@
-# Image Report
+
 I like lighthouses as a beacon of light. <br/>
 [![/images/canada/2016-02-27_10.09.03-small.jpg](/images/canada/2016-02-27_10.09.03-small.jpg)](/images/canada/2016-02-27_10.09.03.jpg)<br/>
 
