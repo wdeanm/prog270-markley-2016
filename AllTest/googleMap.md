@@ -1,4 +1,4 @@
-#Marmoor Park to  Willows Run Golf course.
+# Marymoor Park to  Willows Run Golf course.
 
 <a href="https://goo.gl/maps/2SQnH2Vzo8u" 
  A flat popular hike aloung the Sammamish River.</a>

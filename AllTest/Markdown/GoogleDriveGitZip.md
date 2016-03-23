@@ -1,20 +1,18 @@
 
 
 
-##inflating
-![ ](/home/bcuser/Week07-GoogleDriveGitZip/inflating.PNG  "Inflating")
+## inflating
+![Alt inflating](/images/inflating.png) 
 
-##deflating
-![ ](/home/bcuser/Week07-GoogleDriveGitZip/deflating.PNG  "Deflating")
-
-
+## deflating
+![Alt deflating](/images/deflating.png) 
 
 
-##inflating at 25 %
-![ ](/home/bcuser/Week07-GoogleDriveGitZip/inflating.PNG  "Inflating")
+##i nflating, but shown at 25 %
+![Alt inflating25](/images/inflating.png) 
 
-##deflating at 25 %
-![ ](/home/bcuser/Week07-GoogleDriveGitZip/deflating.PNG  "Deflating")
+## deflating, but shown at 25 %
+![Alt deflating25](/images/deflating.png)
 
 
 
